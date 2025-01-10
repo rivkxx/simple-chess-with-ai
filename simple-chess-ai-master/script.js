@@ -293,3 +293,10 @@ var cfg = {
     onSnapEnd: onSnapEnd
 };
 board = ChessBoard('board', cfg);
+
+               __
+              / _)
+     _.----._/ /
+    /         /
+ __/ (  |  (  |
+/__.-'|_|--|__|
